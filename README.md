@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alikhandesign.
 - 👀 I’m interested in science, art and the intersection of the two. 
-- 🌱 I’m currently learning user experience design & research. 
+- 🌱 I’m currently helping teams scale design & research initiatves through the use of Agentic AI workflows. 
 - 💞️ I’m looking to collaborate on design projects for both small & large companies. 
 - 📫 You can reach me at ali@alikhandesign.com. 
 
